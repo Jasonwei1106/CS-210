@@ -1,2 +1,2 @@
-# CS-210 Assignment using Java
+# CSC-210 Assignment using Java
 
